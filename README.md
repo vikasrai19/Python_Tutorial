@@ -1,6 +1,13 @@
 # Python_Tutorial
 > #### This is a series of python tutorial which includes many types of apps and different logic implemented programs.
 
+-- -- 
+<br>
+
+## RPS GAME
+> A simple python project where we are going to build the RPS game using PYGAME module.
+-- -- 
+<br>
 
 ## Screen Recorder
 ### Basic App
